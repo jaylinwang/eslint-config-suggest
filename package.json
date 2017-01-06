@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-suggest",
+  "version": "1.0.0",
+  "description": "one sample eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint,suggest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaylinwang/eslint-config-suggest.git"
+  },
+  "keywords": [
+    "eslint",
+    "suggest"
+  ],
+  "author": "JaylinWang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaylinwang/eslint-config-suggest/issues"
+  },
+  "homepage": "https://github.com/jaylinwang/eslint-config-suggest#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
